@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Mohsin Ali",
+      "address": "village salyal pobox Bassali",
+      "phoneNumber": "03121571245",
+      "email": "alimalikmohsin80@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Malik Hassan",
+      "address": "Rawalpindi",
+      "phoneNumber": "03137370953",
+      "email": "hassanali18563@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Malik Usman",
+      "address": "Gujarkhan",
+      "phoneNumber": "03435692907",
+      "email": "usman9708@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Zeshan Malik",
+      "address": "Rawat",
+      "phoneNumber": "034646488417",
+      "email": "zeeshan.town@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Luqman",
+      "address": "Rawat",
+      "phoneNumber": "03415053562",
+      "email": "luqman.bulders78@gmail.com"
+    }
+  ]
